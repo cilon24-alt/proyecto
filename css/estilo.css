@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{background-color: #000516}
+.cube{
+	display: block;
+	width: 140px;
+	height: 140px;
+	overflow: hidden;
+	border: 5px solid rgba(189,223,255,1.00);
+	margin: 0 auto;
+}
+.cubee{
+	display: block;
+	overflow: hidden;
+	border: 5px solid rgba(189,223,255,1.00);
+	margin: 0 auto;
+}
+
+#imagen{
+	width: 100%;
+	height: 100%;
+	background: url("../img/bosque.jpg")top center;
+	background-size:cover;
+	font-family:"Bebas Neue", sans-serif; 
+	color: white;
+	font-size: 22px;
+	text-align: center;
+	
+} 
+#imagenn{
+	width: 100%;
+	height: 100%;
+	background: url("../img/bosque.jpg")top center;
+	background-size:cover;
+	font-family:"Bebas Neue", sans-serif; 
+	color: white;
+	font-size: 22px;
+	text-align: center;
+	
+} 
+#enlaces{
+	font-family:"Bodoni Moda", serif;
+}
+#pres{
+	padding-left: 20%;
+	padding-right: 20%;	
+	text-align: center;
+	color: white;
+	font-family:"Bodoni Moda", serif;
+}
+#trabajos{
+	padding-left: 20%;
+	padding-right: 20%;	
+	text-align: center;
+	color: white;	
+	font-family:"Bodoni Moda", serif;
+}
+#videos{
+	padding-left: 20%;
+	padding-right: 20%;	
+	text-align: center;
+	color: white;
+	align-items: center;
+	font-family:"Bodoni Moda", serif;
+}
+#pies{
+	color: #FCFCFC;
+	background-color: #000009 !important;
+	background-size:cover;
+}
+h1{font-family: "Bodoni Moda", serif;}
+h2{font-family: "Bodoni Moda", serif;}
+h3{}
+
+
+
+.navbar{
+	background-color: #000516 !important;
+			
+	}
+
+.nav-link{
+	color: white !important;
+	text-align: center;
+	font-family:; 
+	font-family: "Bebas Neue", sans-serif;
+	font-size: 40px;
+		
+	
+}
+
+
+
